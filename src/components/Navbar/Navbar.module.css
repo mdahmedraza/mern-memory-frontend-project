@@ -1,0 +1,21 @@
+.navbar{
+    margin: 1rem auto;
+    width: 95%;
+    max-width: 70rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+}
+.navbar img{
+    height: 3rem;
+    width: auto;
+    margin-left: 1rem;
+}
+.navbar div{
+    color: #1877f2;
+    font-size: 3rem;
+    font-weight: bold;
+}

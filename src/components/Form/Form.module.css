@@ -1,0 +1,49 @@
+.form{
+    width: 30%;
+    background: #fff;
+    border: 1px solid #dddfe2;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    border-radius: 8px;
+    padding: 1rem;
+    align-items: center;
+    text-align: center;
+}
+.form label{
+    font-size: 2rem;
+    font-weight: bold;
+    color: #1877f2;
+}
+.form> input{
+    border-radius: 8px;
+    border: 2px solid #dddfe2;
+    outline: none;
+    color: #1d2129;
+    margin: 0.5rem 0;
+    padding: 0.5rem 0.75rem;
+    width: 92%;
+    font-size: 1rem;
+}
+.form > .button1{
+    border-radius: 8px;
+    margin: 0.5rem 0;
+    padding: 0.5rem;
+    font-size: 1.25rem;
+    background: #1877f2;
+    border: 1px solid #1877f2;
+    color: #fff;
+    outline: none;
+    cursor: pointer;
+    width: 95%;
+}
+.form > .button2{
+    border-radius: 8px;
+    margin: 0.5rem 0;
+    padding: 0.5rem;
+    font-size: 1.25rem;
+    background: crimson;
+    border: crimson;
+    color: #fff;
+    outline: none;
+    cursor: pointer;
+    width: 95%;
+}
